@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaznChallenge</string>
+    <string name="title_events">Events</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="future_event">This event is scheduled for %s. Please check back then.</string>
+</resources>
